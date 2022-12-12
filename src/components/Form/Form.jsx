@@ -89,7 +89,7 @@ const Form = () => {
 								</FormInputRow>
 							))}
 
-							<FormButton type='submit'>Signup</FormButton>
+							<FormButton /*type='submit'*/>Signup</FormButton>
 						</FormWrapper>
 						{error && (
 							<FormMessage

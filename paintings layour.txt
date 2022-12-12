@@ -1,0 +1,56 @@
+hero landing
+
+h1 "Find .... "
+h3 asidjoasjd
+button find/buy
+
+
+ABOUT
+
+h1 e7x7 Art ...
+
+text: we at ... are....
+
+paintings/works sold -- artists -- collections
+
+
+
+FEATURES
+'
+wer are a .. company that do this :
+
+feature 1  2 3
+featureinfo 1 2 3
+
+
+___EVENTS__ GENRES/COLLECTIONS
+short info 
+action button
+
+
+
+FIND MORE ART
+( fix responsiveness )
+
+
+
+FOOTER
+
+
+
+
+
+
+
+features?
+1_free returns
+if youre not completely satisfied with your artwork, you can return it for free. no questions asked.
+
+2_Commission an artist
+Can't quite find the perfect piece? Or looking for a family or pet
+portrait? Commission an artist and make your dream a reality.
+
+3_Exceptional customer care
+Our worldwide, 24 hour, seven days a week phone support means
+we're always there when you need us.
+More info
