@@ -69,9 +69,10 @@ export const TextWrapper = styled.div`
 `;
 
 export const ContentButton = styled(motion.button)`
+	margin-top: 8px;
 	height: 3rem;
 	padding: 16px 32px;
-	font-weight: 400;
+	font-weight: 600;
 	font-size: 0.8rem;
 	/*line-height: 18px;*/
 	letter-spacing: 1.54px;
@@ -118,9 +119,13 @@ export const ImgWrapper = styled(motion.div)`
 	justify-content: center;
 	position: relative;
 	background-color: ${orange};
-	padding: 4px 0;
+	padding: 12px 2px;
 	max-height: 40%;
 	margin-bottom: 8px;
+	/*border: 3px solid red;*/
+	@media screen and (max-width: 768px) {
+		height: 420px;
+	}
 `;
 
 export const TopLine = styled(motion.span)`
@@ -132,8 +137,8 @@ export const TopLine = styled(motion.span)`
 
 	background-color: ${orange};
 	color: #fff;
-	padding: 5px 10px;
-	border-radius: 5px;
+	padding: 4px 14px;
+	border-radius: 2px;
 `;
 
 export const Img = styled(motion.img)`
@@ -144,7 +149,7 @@ export const Img = styled(motion.img)`
 	display: inline-block;
 	object-fit: cover;
 	/* height: 400px; */
-	max-height: 700px;
+	max-height: 750px;
 	z-index: 1;
 `;
 
